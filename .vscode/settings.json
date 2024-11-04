@@ -1,0 +1,8 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cSpell.words": [
+        "newsclass",
+        "slidermodel"
+    ],
+    "cmake.sourceDirectory": "D:/FlutterApp/ecommerce/newsapi/windows/flutter"
+}
